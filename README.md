@@ -17,7 +17,7 @@ Required Hardware :
 
 Required ROS packages :
 * **freenect_stack**
-* **rosserial-arduino***
+* **rosserial-arduino**
 
 Required libraries :
 * **OpenCV 3.4.0**+
@@ -37,7 +37,7 @@ Please read [CONTRIBUTING.md]() for details on our code of conduct, and the proc
 
 * **raymas** - *Initial work* - [raymas](https://github.com/raymas)
 
-See also the list of [contributors](https://github.com/raymas/AShield/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/raymas/Rover/contributors) who participated in this project.
 
 ## License
 
