@@ -1,6 +1,6 @@
 # Rover project
 
-SLAM implementation for a rocker-bogie Martian style Rover under ROS
+SLAM implementation for a rocker-bogie Martian style Rover under ROS - *STILL IN DEVELOPEMENT*
 
 Rocker-Bogie             |  RGBD-slam
 :-------------------------:|:-------------------------:
@@ -8,6 +8,7 @@ Rocker-Bogie             |  RGBD-slam
 
 ## Getting Started
 
+*WORK IN PROGRESS*
 
 ### Prerequisites
 
