@@ -1,6 +1,10 @@
 # Rover project
 
-SLAM implementation for a rocker-bogie martian style Rover under ROS
+SLAM implementation for a rocker-bogie Martian style Rover under ROS
+
+Rocker-Bogie             |  RGBD-slam
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/raymas/Rover/master/Ressources/30714115_1766119906812635_8365958468489707520_n.png)  |  ![](https://raw.githubusercontent.com/raymas/Rover/master/Ressources/snapshot_cld_nodecim00.png)
 
 ## Getting Started
 
