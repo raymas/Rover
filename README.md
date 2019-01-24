@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://siera-estaca.com">
+    <img alt="SiEra" src="siera.svg"/>
+  </a>
+</p>
+
 # Rover project
 
 SLAM implementation for a rocker-bogie Martian style Rover under ROS - *STILL IN DEVELOPEMENT*
