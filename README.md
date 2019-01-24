@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://siera-estaca.com">
-    <img alt="SiEra" src="siera.svg"/>
+    <img alt="SiEra" src="siera.svg" width="400"/>
   </a>
 </p>
 
