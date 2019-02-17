@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://siera-estaca.com">
-    <img alt="SiEra" src="siera.svg?sanitize=true" width="400"/>
+    <img alt="SiEra" src="https://raw.githubusercontent.com/raymas/Rover/master/siera.svg?sanitize=true" width="400"/>
   </a>
 </p>
 
